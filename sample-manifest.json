@@ -1,0 +1,12 @@
+{
+  "export_job_id": "8fe527c4-c6df-4212-9fa6-8f275432f4fa",
+  "id_short": 365382,
+  "published_at": "2026-04-11T07:39:25Z",
+  "repo_name": "all-restaurants-in-mount-vernon-new-york-us-sample-365382",
+  "sample_asset_name": "beamstation_365382_restaurants-us-ny_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/365382/beamstation_365382_restaurants-us-ny_SAMPLE_DIST.csv",
+  "sample_records": 18,
+  "sample_sha256": "aecbccabc4041ef3f3fde1d5236f7af4e3ff818ad04bd38602292d501fa51158",
+  "sample_size_bytes": 69090,
+  "total_records": 187
+}

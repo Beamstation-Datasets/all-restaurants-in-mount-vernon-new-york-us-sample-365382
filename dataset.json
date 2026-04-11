@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Comprehensive dining market data for Mount Vernon, New York. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Mount Vernon, New York, US",
+  "export_job_id": "8fe527c4-c6df-4212-9fa6-8f275432f4fa",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 365382,
+  "location_name": "Mount Vernon",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-mount-vernon-new-york-us-sample-365382",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/365382/beamstation_365382_restaurants-us-ny_SAMPLE_DIST.csv",
+  "sample_pct": 9.63,
+  "sample_records": 18,
+  "sample_sha256": "aecbccabc4041ef3f3fde1d5236f7af4e3ff818ad04bd38602292d501fa51158",
+  "sample_size_bytes": 69090,
+  "total_records": 187,
+  "updated_at": "2026-04-09T09:10:51.217633+00:00"
+}

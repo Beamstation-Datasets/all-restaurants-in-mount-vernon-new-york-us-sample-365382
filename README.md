@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 187 records |
 | Free sample size | 18 records (9.63%) |
-| Last export | 2026-04-09T09:10:51.217633+00:00 |
+| Last export | 2026-04-16T09:11:06.473732+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-mount-vernon-new-york-us-sample-365382/releases/download/sample-latest/beamstation_365382_restaurants-us-ny_SAMPLE_DIST.csv) |
 
 ## What is in this sample

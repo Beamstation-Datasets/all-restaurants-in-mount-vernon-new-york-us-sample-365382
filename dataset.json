@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Comprehensive dining market data for Mount Vernon, New York. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
   "config_name": "All Restaurants in Mount Vernon, New York, US",
-  "export_job_id": "8fe527c4-c6df-4212-9fa6-8f275432f4fa",
+  "export_job_id": "1b05c69a-0369-4a5d-a8c7-11bb24ed25cf",
   "github_org": "Beamstation-Datasets",
   "id_short": 365382,
   "location_name": "Mount Vernon",
@@ -15,8 +15,8 @@
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/365382/beamstation_365382_restaurants-us-ny_SAMPLE_DIST.csv",
   "sample_pct": 9.63,
   "sample_records": 18,
-  "sample_sha256": "aecbccabc4041ef3f3fde1d5236f7af4e3ff818ad04bd38602292d501fa51158",
-  "sample_size_bytes": 69090,
+  "sample_sha256": "3c8a20a7baf20b86274dfc16499725067ec3e0458eef0e8e86b7d11be8df6372",
+  "sample_size_bytes": 68994,
   "total_records": 187,
-  "updated_at": "2026-04-09T09:10:51.217633+00:00"
+  "updated_at": "2026-04-16T09:11:06.473732+00:00"
 }
